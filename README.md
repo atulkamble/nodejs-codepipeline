@@ -2,7 +2,7 @@ Here's a complete working **Node.js + CodePipeline + CodeBuild** project using a
 
 ---
 
-## 📁 Project Repo: `nodejs-codepipeline-demo`
+## 📁 Project Repo: `nodejs-codepipeline`
 
 ### 📂 Folder Structure:
 
